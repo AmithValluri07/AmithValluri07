@@ -109,7 +109,11 @@ A fee management and parent portal application for coaching institutes.
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AmithValluri07&amp;theme=tokyonight&amp;no-frame=true&amp;row=1&amp;column=6" alt="GitHub Trophies" width="100%" />
+  <img
+    src="https://icon.mzrdev.com/trophy?username=AmithValluri07"
+    alt="GitHub Trophies"
+    width="100%"
+  />
 </div>
 
 ---
